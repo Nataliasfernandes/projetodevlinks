@@ -49,7 +49,7 @@ Esse projeto está sob a licença MIT.
 
 ## 🤓 Aprendizado e Observações
 
-Projeto criado com o devlinks da rocketseat, é um agregador de links para ser usado como cartão de visitas online, gerou um otimo aprendizado por conta da sua responsividade, seu modo dark e light, além dessa readme, outra cara a quem chega pra ver seus projetos. Foram feitas algumas alterações do projeto original de acordo com a minha realidade, todos os links funcionam, e me desafiei a criar a implantação de novas páginas, como "disponível em breve" usada nas abas que ainda não ainda foram desenvolvidas, como youtube, e veja meu portfólio.
+Projeto criado com o devlinks da rocketseat, é um agregador de links para ser usado como cartão de visitas online, gerou um otimo aprendizado por conta da sua responsividade, seu modo dark e light, além dessa readme, que da outra cara a quem chega pra ver seus projetos. Foram feitas algumas alterações do projeto original de acordo com a minha realidade, todos os links funcionam, e me desafiei a criar a implantação de novas páginas, como "disponível em breve" usada nas abas que ainda não ainda foram desenvolvidas, como youtube, e veja meu portfólio.
 
 
 
